@@ -1,0 +1,7 @@
+# Executavel gerado na compilacao
+estoque
+estoque.exe
+
+# Dados gerados pelo programa
+categorias.txt
+produtos.txt
